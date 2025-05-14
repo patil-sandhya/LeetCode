@@ -15,4 +15,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patil-sandhya/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/patil-sandhya/LeetCode/tree/master/0045-jump-game-ii) |
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/patil-sandhya/LeetCode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/patil-sandhya/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
