@@ -31,7 +31,7 @@ var setZeroes = function(mat) {
 //console.log(mat)
     for(let i=0; i<r; i++){
       let res = mat[i].join(" ")
-      console.log(res)
+    //   console.log(res)
     }
 return mat
 };
