@@ -24,6 +24,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/patil-sandhya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/patil-sandhya/LeetCode/tree/master/0045-jump-game-ii) |
+| [0073-set-matrix-zeroes](https://github.com/patil-sandhya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/patil-sandhya/LeetCode/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/patil-sandhya/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/patil-sandhya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
