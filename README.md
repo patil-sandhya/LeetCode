@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patil-sandhya/LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/patil-sandhya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/patil-sandhya/LeetCode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/patil-sandhya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/patil-sandhya/LeetCode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/patil-sandhya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
