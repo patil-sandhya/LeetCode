@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patil-sandhya/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/patil-sandhya/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/patil-sandhya/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/patil-sandhya/LeetCode/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/patil-sandhya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/patil-sandhya/LeetCode/tree/master/0049-group-anagrams) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/patil-sandhya/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
