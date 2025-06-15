@@ -8,10 +8,10 @@ var longestCommonPrefix = function(strs) {
     let last = strs[strs.length-1]
     let min = Math.min(first.length, last.length)
     let i=0
-    // let ans = ""
+    let ans = ""
     while(i<min && first[i] == last[i]){
-        // ans+=first[i]
+        ans+=first[i]
         i++
     }
-    return first.substring(0,i)
+    return ans
 };
